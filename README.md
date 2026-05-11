@@ -28,7 +28,7 @@ Ingeniero en Sistemas desarrollando plataformas digitales para instituciones del
 |---|---|---|
 | [ANSEC Digital](https://ansec.serviciocivil.gob.hn) | Plataforma de RRHH del Servicio Civil hondureño | Laravel · Vue 3 · PostgreSQL |
 | [Contribuyente 360](https://contribuyente360.amdc.hn) | Portal tributario de la Municipalidad de Tegucigalpa | Laravel · Vue 3 · SQL Server |
-| [LexTrack]([https://fast-api-pi-khaki.vercel.app/login](https://fast-api-pi-khaki.vercel.app/login)) | Gestión de expedientes y audiencias legales | FastAPI · Python · Vue 3 |
+| [LexTrack](https://fast-api-pi-khaki.vercel.app/login) | Gestión de expedientes y audiencias legales | FastAPI · Python · Vue 3 |
 
 ---
 
