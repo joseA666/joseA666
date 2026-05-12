@@ -35,7 +35,7 @@ Ingeniero en Sistemas desarrollando plataformas digitales para instituciones del
 ### 📫 Contacto
 
 [![Email](https://img.shields.io/badge/arieldomingues88@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:arieldomingues88@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://quiet-strudel-ec6710.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://joseamador-portfolio.netlify.app)
 
 ---
 
