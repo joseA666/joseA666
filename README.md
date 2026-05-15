@@ -55,6 +55,7 @@
 | [ANSEC Digital](https://ansec.serviciocivil.gob.hn) | Plataforma de RRHH del Servicio Civil hondureño | Laravel · Vue 3 · PostgreSQL |
 | [Contribuyente 360](https://contribuyente360.amdc.hn) | Portal tributario de la Municipalidad de Tegucigalpa | Laravel · Vue 3 · SQL Server |
 | [LexTrack](https://fast-7rhanw035-josea666s-projects.vercel.app) | Gestión de expedientes y audiencias legales | FastAPI · Python · Vue 3 |
+| [ANSEC HelpDesk](https://soporte.serviciocivil.gob.hn) | Sistema de soporte técnico del Servicio Civil hondureño | FastAPI · Vue 3 · PostgreSQL |
 
 ---
 
