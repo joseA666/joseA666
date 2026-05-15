@@ -1,24 +1,45 @@
-# Hola, soy Jose Ariel 👋
+<h1 align="center">Hola, soy José Ariel Amador 👋</h1>
 
-Ingeniero en Sistemas desarrollando plataformas digitales para instituciones del gobierno de Honduras.
+<p align="center">
+  Ingeniero en Sistemas desarrollando plataformas digitales para instituciones del gobierno de Honduras.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=josea666&color=00ACD7&style=flat-square&label=visitas" alt="profile views" />
+</p>
 
 ---
 
 ### 🛠️ Stack
 
+**Backend**
+
+![Go](https://img.shields.io/badge/Go-00ACD7?style=flat&logo=go&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-008ECF?style=flat&logo=go&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+
+**Frontend**
+
 ![Vue.js](https://img.shields.io/badge/Vue_3-41B883?style=flat&logo=vuedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=flat&logo=tailwindcss&logoColor=white)
+
+**Bases de datos**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00618A?style=flat&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+
+**DevOps & herramientas**
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F34F29?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
 
@@ -32,6 +53,15 @@ Ingeniero en Sistemas desarrollando plataformas digitales para instituciones del
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=josea666&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josea666&layout=compact&theme=default&hide_border=true&langs_count=8" />
+</p>
+
+---
+
 ### 📫 Contacto
 
 [![Email](https://img.shields.io/badge/arieldomingues88@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:arieldomingues88@gmail.com)
@@ -39,4 +69,4 @@ Ingeniero en Sistemas desarrollando plataformas digitales para instituciones del
 
 ---
 
-*Tegucigalpa, Honduras*
+<p align="center"><em>Tegucigalpa, Honduras 🇭🇳</em></p>
