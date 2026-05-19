@@ -4,7 +4,7 @@
 
 # José Ariel Amador
 
-**Ingeniero en Sistemas** · Desarrollador de plataformas digitales para el gobierno de Honduras 🇭🇳
+**Ingeniero en Sistemas** · Desarrollador de plataformas digitales 🇭🇳
 
 [![Profile Views](https://komarev.com/ghpvc/?username=josea666&color=00ACD7&style=flat-square&label=visitas)](https://github.com/josea666)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://joseamador-portfolio.netlify.app)
